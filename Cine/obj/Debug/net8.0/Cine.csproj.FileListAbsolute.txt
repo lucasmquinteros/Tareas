@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\bin\Debug\net8.0\Cine.exe
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\bin\Debug\net8.0\Cine.deps.json
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\bin\Debug\net8.0\Cine.runtimeconfig.json
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\bin\Debug\net8.0\Cine.dll
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\bin\Debug\net8.0\Cine.pdb
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.dll
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\refint\Cine.dll
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.pdb
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\Cine.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Desktop\lucas\C#\POO\Cine\obj\Debug\net8.0\ref\Cine.dll
